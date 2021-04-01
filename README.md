@@ -7,3 +7,6 @@ Cardiovascular diseases represent one of the leading causes of death related to 
 * the use of applications with a gamification system to increase users' adherence
 * the use of a biofeedback system to monitor the prescribed physical activities
 * implant and test a prototype.
+
+
+## Members

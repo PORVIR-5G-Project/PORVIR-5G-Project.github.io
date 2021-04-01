@@ -10,3 +10,6 @@ Cardiovascular diseases represent one of the leading causes of death related to 
 
 
 ## Members
+<p align="center">
+    <img src="unisinos.png" height="600"/> 
+</p>

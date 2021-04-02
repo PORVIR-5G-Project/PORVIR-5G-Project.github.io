@@ -2,7 +2,7 @@
 Innovative and disruptive technologies to prescribe, encourage and evaluate the use of physical activity
 
 <p align="center">
-    <img src="maya_banner.png" height="600"/> 
+    <img src="maya_banner.png" height="300"/> 
 </p>
 
 ## Description

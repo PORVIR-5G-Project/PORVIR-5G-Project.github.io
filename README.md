@@ -19,3 +19,6 @@ Cardiovascular diseases represent one of the leading causes of death related to 
 
 ## Acknowledgement
 Maya project has received funding from the Brazilian Ministry of Science, Technology and Innovation (MCTI) through FAPESP.
+<p align="center">
+    <img src="mcti.png" height="100"/> <img src="fapesp.png" height="100"/> 
+</p>

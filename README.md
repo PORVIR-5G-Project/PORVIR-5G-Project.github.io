@@ -1,4 +1,4 @@
-## MAYA Project
+## PORVIR-5G Project
 <p align="justify">
 Innovative and disruptive technologies to prescribe, encourage and evaluate the use of physical activity
 </p>

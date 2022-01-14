@@ -1,6 +1,6 @@
 ## PORVIR-5G Project
 <p align="justify">
-Innovative and disruptive technologies to prescribe, encourage and evaluate the use of physical activity
+Programmability, ORchestration and VIRtualization of 5G Networks
 </p>
 <p align="center">
     <img src="maya_banner.png" height="300"/> 
@@ -8,12 +8,8 @@ Innovative and disruptive technologies to prescribe, encourage and evaluate the 
 
 ## Description
 <p align="justify">
-Cardiovascular diseases represent one of the leading causes of death related to non- communicable diseases. One of the factors that significantly impact this number is the lack of engagement in activities related to prevention-focused on risk groups for the development of cardiovascular diseases, as well as the monitoring of the treatment cycle of patients with cardiovascular diseases already diagnosed. The effective use of exercise prescription for the rehabilitation of patients with cardiovascular diseases significantly improves the quality of life and reduces mortality rates. In this sense, the development of strategies to increase adherence and consequently, the time of physical activity of the population as a whole, as well as of those individuals with chronic diseases, becomes a fundamental goal for the population's health. Several recent technological advances, such as Internet of Things and network sensors, may represent an improvement in the monitoring and prescription of physical activity. Such technologies can be integrated to provide biofeedback on the prescribed physical activities, which can be accessed by smartphones. The general objective of the MAYA project is to develop and implement innovative, disruptive, safe, and low-cost technologies to increase adherence to prescribed physical activities and monitor the response of physiological variables, during physical activities for the prevention and rehabilitation of cardiovascular diseases. The MAYA project proposes to overcome this challenge through three integrated approaches:
+The expected massive growth of mobile Internet traffic in 5G mobile networks introduces the need to change the operators’ networks. Such networks require a drastic transformation towards open, scalable and elastic ecosystems supporting new types of communication. The PORVIR-5G project will develop and demonstrate a programmable fronthaul and backhaul integrating wireless with optical-packet networks and cloud solutions. It is intended to exploit virtual network splits that optimise resource allocation across the wireless, optical, packet, and compute/storage domains. Key enablers for PORVIR-5G are (​i​) Slicing over packet, wireless, and optical resources, controlled by (​ii)​ deep programmability interfaces, where the devices are configured by network functions to provide the required performance for the future applications on the Internet. This programmability allows a more refined (​iii)​ end-to-end and multilayer orchestration, considering the quality of experience of the users for each type of applications over the network. This project will validate and demonstrate the proposed programmability and virtualization capabilities in three demonstrations, each one of them enabling the key performance demands of 5G networks: an Internet of Things demonstrator focusing on massive machine-type communication; a smart city demonstration for reliable and ultra-low latency flows; and a high bandwidth video demonstrator showcasing the next-generation mobile broadband. 
 </p>
-
-* the use of applications with a gamification system to increase users' adherence;
-* the use of a biofeedback system to monitor the prescribed physical activities;
-* implant and test a prototype.
 
 ## Members
 <p align="center">

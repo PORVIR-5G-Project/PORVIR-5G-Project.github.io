@@ -12,7 +12,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 ## Members
 <p align="center">
-    <img src="ufcspa.png" height="100"/> <img src="unisinos.png" height="100"/> <img src="ufpa.png" height="70"/> <img src="ufrgs.png" height="100"/>
+    <img src="UFES.png" height="60"/> <img src="UFMG.png" height="100"/> <img src="UFRGS.png" height="70"/> <img src="UNICAMP.png" height="80"/> <img src="unisinos.png" height="100"/>
 </p>
 
 ## Acknowledgement

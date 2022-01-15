@@ -1,9 +1,8 @@
 ## PORVIR-5G Project
 <p align="justify">
-Programmability, ORchestration and VIRtualization of 5G Networks
 </p>
 <p align="center">
-    <img src="maya_banner.png" height="300"/> 
+    <img src="PORVIR-5G-logo-fundo-claro.png"/> 
 </p>
 
 ## Description

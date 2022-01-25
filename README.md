@@ -19,20 +19,23 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 ## Publications
 
-<details><summary>G. Miranda, D. F. Macedo and J. M. Marquez-Barja, <i>"Estimating Video on Demand QoE from Network QoS through ICMP Probes,"</i> in IEEE Transactions on Network and Service Management, doi: https://doi.org/10.1109/TNSM.2021.3129610.</summary>
+<details><summary>G. Miranda, D. F. Macedo and J. M. Marquez-Barja, <i>"Estimating Video on Demand QoE from Network QoS through ICMP Probes,"</i> in IEEE Transactions on Network and Service Management, doi: <a href="https://doi.org/10.1109/TNSM.2021.3129610">10.1109/TNSM.2021.3129610</a>.</summary>
     <strong>Abstract:</strong> With the increasing traffic of vod, network providers are seeking to deliver high qoe for their users. Many methods have been proposed to assess vod-related qoe. Some of them rely on client instrumentation and reporting qoe information to network elements, such as Server and Network Assisted DASH, others are based on statistical methods that make qoe inferences using monitored network conditions, such as throughput and delays. In this article, we present a practical method to estimate qoe for vod using the widely supported icmp probes. Measured network conditions are used as input to a ml model that estimates qoe in terms of mos, based on the ITU-T P.1203 Recommendation. The estimation encompasses video quality switches and playback stalls. We estimate mos with an average rmse of 1.05 for a catalog of 25 different videos, training a model with sessions of the shortest video, and evaluating the generalization to the full catalog. We performed experiments using a virtualized setup as well as in a Wide Area Network.
-    <strong>URL:</strong> https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9622751&isnumber=5699970
+    <strong>URL:</strong> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9622751&isnumber=5699970">https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9622751&isnumber=5699970</a>
 </details>
+<br/>
 
 <details><summary>G. Miranda, E. Municio, J. M. Marquez-Barja and D. F. Macedo, <i>"Machine Learning-based End-to-End QoE Monitoring Using Active Network Probing,"</i> in 25th Conference on Innovation in Clouds, Internet and Networks and Workshops (ICIN), 2022, Paris.</summary>
     <strong>Abstract:</strong> Abstract here!
     <strong>URL:</strong> To appear
 </details>
+<br/>
 
 <details><summary>T. A. N. do Amaral, R. V. Rosa, D. M. and C. E. Rothenberg, <i>"An In-Kernel Solution Based on XDP for 5G UPF:  Design, Prototype and Performance Evaluation,"</i> in 1st Joint International Workshop on Network Programmability & Automation (NetPA), 2021.</summary>
     <strong>Abstract:</strong> Abstract here!
     <strong>URL:</strong> To appear
 </details>
+<br/>
 
 ## Acknowledgement
 <p align="justify">

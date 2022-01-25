@@ -24,6 +24,16 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
     <strong>URL:</strong> https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9622751&isnumber=5699970
 </details>
 
+<details><summary>G. Miranda, E. Municio, J. M. Marquez-Barja and D. F. Macedo, <i>"Machine Learning-based End-to-End QoE Monitoring Using Active Network Probing,"</i> in 25th Conference on Innovation in Clouds, Internet and Networks and Workshops (ICIN), 2022, Paris.</summary>
+    <strong>Abstract:</strong> Abstract here!
+    <strong>URL:</strong> To appear
+</details>
+
+<details><summary>T. A. N. do Amaral, R. V. Rosa, D. M. and C. E. Rothenberg, <i>"An In-Kernel Solution Based on XDP for 5G UPF:  Design, Prototype and Performance Evaluation,"</i> in 1st Joint International Workshop on Network Programmability & Automation (NetPA), 2021.</summary>
+    <strong>Abstract:</strong> Abstract here!
+    <strong>URL:</strong> To appear
+</details>
+
 ## Acknowledgement
 <p align="justify">
 PORVIR-5G Project has received funding from the Brazilian Ministry of Science, Technology and Innovation (MCTI) through FAPESP.

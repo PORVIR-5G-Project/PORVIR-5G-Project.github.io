@@ -39,7 +39,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 ## News
 
-### News #1 - Post-doctoral fellowship in 5G slicing, orchestration and programmability
+### News #1 - Post-doctoral fellowship in 5G slicing, orchestration, and programmability
 <p align="justify">
 We are seeking candidates for a post-doctoral fellowship position for 12 months to work at a joint UFMG-UNICAMP-UFES-UNISINOS-UFRGS project. Due to the number of institutions as well as the situation with COVID-19, there is a great amount of flexibility in the place of work. The candidate will be allocated to one of the host universities and will work with researchers of the consortium. 
 </p>

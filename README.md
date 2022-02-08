@@ -47,25 +47,21 @@ This scholarship is part of the Project, entitled “Programmability, Orchestrat
 </p>
     
 **To succeed in this position, you are expected to have:**
-<p align="justify">  
 * Strong motivation;
-* A background in computer networks, namely network slicing, programmability;
+* A background in computer networks, namely network slicing, programmability;    
 * Proficient in common computer programming languages (e.g., Java, C/C++, python);
 * A background in AI and machine learning is a positive aspect to be considered in the selection process;
 * Work experience in research labs abroad, during the Ph.D. period, is a positive aspect to be considered in the selection process;
 * Strong problem solving and decision-making skills while using good judgment;
 * Good research skills, the ability to work in a team, and communication skills with good written and spoken English are required;
 * Experience in preparing/coordinating research project/students team is a plus.
-</p>
 
 **How to apply**
-<p align="justify">    
 Interested candidates should fill the online form https://forms.gle/RKa3e5nfrCPafEVx7 until March 15th, 2022, by adding the documents listed below:
 1. A motivation letter for the application;
 2. Curriculum vitae, with list of publications, education background, research track-record, and previous experience;
 3. Ph.D. degree certificate;
 The most suited candidates will be invited for an interview (via videoconference) in the week following the application deadline.
-</p>
 
 **Additional Information**
 <p align="justify"> 

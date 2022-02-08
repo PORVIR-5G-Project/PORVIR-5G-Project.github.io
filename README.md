@@ -31,9 +31,23 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 </details>
 <br/>
 
-<details><summary>T. A. N. do Amaral, R. V. Rosa, D. M. and C. E. Rothenberg, <i>"An In-Kernel Solution Based on XDP for 5G UPF:  Design, Prototype and Performance Evaluation,"</i> in 1st Joint International Workshop on Network Programmability & Automation (NetPA), 2021.</summary>
-    <strong>Abstract:</strong> Abstract here!
-    <strong>URL:</strong> To appear
+<details><summary>T. A. N. do Amaral, R. V. Rosa, D. M. and C. E. Rothenberg, An In-Kernel Solution Based on XDP for 5G UPF:  Design, Prototype and Performance Evaluation,"</i> in 1st Joint International Workshop on Network Programmability & Automation (NetPA), 2021.</summary>
+    <strong>Abstract:</strong>The edge computing infrastructure can scale from datacenters to single
+device. The well-known technology for fast packet processing is DPDK, which
+has outstanding performance regarding the throughput and latency. However,
+there are some drawbacks when the usage is done in the edge: (i) the
+polling mechanism for packet processing keeps the CPU exclusively occupied
+even if there is no traffic, leading to wasted resources; and (ii) DPDK
+interface becomes unavailable for the applications inside the host, so the
+integration between a non-DPDK application and a DPDK application becomes a
+hard task. In this paper, we propose an open-source in-kernel 5G UPF
+solution based on 3GPP Release 16 to be deployed in a restrictive
+environment like MEC, where MEC host and UPF are collocated with the Base
+Station, sharing the same computational and network resources. The solution
+leverages the eBPF/XDP, a novel Linux kernel technology for fast packet
+processing. We show it can scale and achieve 10 Mpps using only 60% of the
+CPU with 6 cores.
+    <strong>URL:</strong> <a href="https://github.com/navarrothiago/upf-bpf">https://github.com/navarrothiago/upf-bpf</a> 
 </details>
 <br/>
 

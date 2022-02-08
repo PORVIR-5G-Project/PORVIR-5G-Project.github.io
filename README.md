@@ -5,7 +5,7 @@
     <img src="PORVIR-5G-logo-fundo-claro.png"/> 
 </p>
 
-[Description](#description) | [Members](#members) | [Publications](#publications) | [Acknowledgement](#acknowledgement)
+[Description](#description) | [Members](#members) | [Publications](#publications) | [News](#news) | [Acknowledgement](#acknowledgement)
 
 ## Description
 <p align="justify">
@@ -36,6 +36,34 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
     <strong>URL:</strong> To appear
 </details>
 <br/>
+
+## News
+<p align="justify">
+Subject: Post-doctoral fellowship in 5G slicing, orchestration and programmability
+We are seeking candidates for a post-doctoral fellowship position for 12 months to work at a joint UFMG-UNICAMP-UFES-UNISINOS-UFRGS project. Due to the number of institutions as well as the situation with COVID-19, there is a great amount of flexibility in the place of work. The candidate will be allocated to one of the host universities and will work with researchers of the consortium. 
+This scholarship is part of the Project, entitled “Programmability, Orchestration and Virtualization on 5G networks” (PORVIR-5G), which aims to develop new architectures and mechanisms to improve 5G networks in general. The post-doc candidate will work on the use of AI and machine learning in the orchestration of 5G networks, as well as network slicing and programmability of virtual networks. The project focuses on some of the 5G verticals, namely ultra high quality video, autonomous drones and Industry 4.0. More information at: https://porvir-5g-project.github.io/ 
+In order to succeed in this position, you are expected to have:
+* Strong motivation;
+* A background in computer networks, namely network slicing, programmability;
+* Proficient in common computer programming languages (e.g., Java, C/C++, python);
+* A background in AI and machine learning is a positive aspect to be considered in the selection process;
+* Work experience in research labs abroad, during the Ph.D. period, is a positive aspect to be considered in the selection process;
+* Strong problem solving and decision-making skills while using good judgment;
+* Good research skills, the ability to work in a team, and communication skills with good written and spoken English are required;
+* Experience in preparing/coordinating research project/students team is a plus.
+
+ *** How to apply  ***
+Interested candidates should fill the online form https://forms.gle/RKa3e5nfrCPafEVx7 until March 15th, 2022, by adding the documents listed below:
+1. A motivation letter for the application;
+2. Curriculum vitae, with list of publications, education background, research track-record, and previous experience;
+3. Ph.D. degree certificate;
+The most suited candidates will be invited for an interview (via videoconference) in the week following the application deadline.
+
+*** Additional Information ***
+Eligibility Criteria: Ph.D. in Computer Science or related areas.
+The post-doctoral fellowship includes a monthly stipend of R$ 7.373,10 (about USD 1,380 and EUR 1,200), and research contingency funds (10% of the annual value of the fellowship, each year). For more details, check out Fapesp’s webpage http://www.fapesp.br/en/5427.
+ 
+</p>
 
 ## Acknowledgement
 <p align="justify">

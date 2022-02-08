@@ -39,12 +39,14 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 ## News
 
-<p align="justify">
 ### News #1 - Subject: Post-doctoral fellowship in 5G slicing, orchestration and programmability
-    
+
+<p align="justify">
 We are seeking candidates for a post-doctoral fellowship position for 12 months to work at a joint UFMG-UNICAMP-UFES-UNISINOS-UFRGS project. Due to the number of institutions as well as the situation with COVID-19, there is a great amount of flexibility in the place of work. The candidate will be allocated to one of the host universities and will work with researchers of the consortium. 
+    
 This scholarship is part of the Project, entitled “Programmability, Orchestration and Virtualization on 5G networks” (PORVIR-5G), which aims to develop new architectures and mechanisms to improve 5G networks in general. The post-doc candidate will work on the use of AI and machine learning in the orchestration of 5G networks, as well as network slicing and programmability of virtual networks. The project focuses on some of the 5G verticals, namely ultra high quality video, autonomous drones and Industry 4.0. More information at: https://porvir-5g-project.github.io/ 
-In order to succeed in this position, you are expected to have:
+
+    To succeed in this position, you are expected to have:
 * Strong motivation;
 * A background in computer networks, namely network slicing, programmability;
 * Proficient in common computer programming languages (e.g., Java, C/C++, python);

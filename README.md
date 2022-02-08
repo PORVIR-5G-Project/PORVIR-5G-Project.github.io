@@ -46,7 +46,7 @@ We are seeking candidates for a post-doctoral fellowship position for 12 months 
     
 This scholarship is part of the Project, entitled “Programmability, Orchestration and Virtualization on 5G networks” (PORVIR-5G), which aims to develop new architectures and mechanisms to improve 5G networks in general. The post-doc candidate will work on the use of AI and machine learning in the orchestration of 5G networks, as well as network slicing and programmability of virtual networks. The project focuses on some of the 5G verticals, namely ultra high quality video, autonomous drones and Industry 4.0. More information at: https://porvir-5g-project.github.io/ 
 
-    To succeed in this position, you are expected to have:
+To succeed in this position, you are expected to have:
 * Strong motivation;
 * A background in computer networks, namely network slicing, programmability;
 * Proficient in common computer programming languages (e.g., Java, C/C++, python);
@@ -57,6 +57,7 @@ This scholarship is part of the Project, entitled “Programmability, Orchestrat
 * Experience in preparing/coordinating research project/students team is a plus.
 
  *** How to apply  ***
+    
 Interested candidates should fill the online form https://forms.gle/RKa3e5nfrCPafEVx7 until March 15th, 2022, by adding the documents listed below:
 1. A motivation letter for the application;
 2. Curriculum vitae, with list of publications, education background, research track-record, and previous experience;
@@ -64,6 +65,7 @@ Interested candidates should fill the online form https://forms.gle/RKa3e5nfrCPa
 The most suited candidates will be invited for an interview (via videoconference) in the week following the application deadline.
 
 *** Additional Information ***
+    
 Eligibility Criteria: Ph.D. in Computer Science or related areas.
 The post-doctoral fellowship includes a monthly stipend of R$ 7.373,10 (about USD 1,380 and EUR 1,200), and research contingency funds (10% of the annual value of the fellowship, each year). For more details, check out Fapesp’s webpage http://www.fapesp.br/en/5427.
  

@@ -55,17 +55,19 @@ To succeed in this position, you are expected to have:
 * Strong problem solving and decision-making skills while using good judgment;
 * Good research skills, the ability to work in a team, and communication skills with good written and spoken English are required;
 * Experience in preparing/coordinating research project/students team is a plus.
+</p>
 
- *** How to apply  ***
-    
+**How to apply**
+<p align="justify">    
 Interested candidates should fill the online form https://forms.gle/RKa3e5nfrCPafEVx7 until March 15th, 2022, by adding the documents listed below:
 1. A motivation letter for the application;
 2. Curriculum vitae, with list of publications, education background, research track-record, and previous experience;
 3. Ph.D. degree certificate;
 The most suited candidates will be invited for an interview (via videoconference) in the week following the application deadline.
+</p>
 
-*** Additional Information ***
-    
+**Additional Information**
+<p align="justify"> 
 Eligibility Criteria: Ph.D. in Computer Science or related areas.
 The post-doctoral fellowship includes a monthly stipend of R$ 7.373,10 (about USD 1,380 and EUR 1,200), and research contingency funds (10% of the annual value of the fellowship, each year). For more details, check out Fapesp’s webpage http://www.fapesp.br/en/5427.
  

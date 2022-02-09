@@ -82,6 +82,7 @@ The most suited candidates will be invited for an interview (via videoconference
 
 **Additional Information**
 <p align="justify"> 
+        
 Eligibility Criteria: Ph.D. in Computer Science or related areas.
 The post-doctoral fellowship includes a monthly stipend of R$ 7.373,10 (about USD 1,380 and EUR 1,200), and research contingency funds (10% of the annual value of the fellowship, each year). For more details, check out Fapesp’s webpage  <a href="http://www.fapesp.br/en/5427 ">http://www.fapesp.br/en/5427 </a> .
  
@@ -94,3 +95,8 @@ PORVIR-5G Project has received funding from the Brazilian Ministry of Science, T
 <p align="center">
     <img src="mcti.png" height="70"/> <img src="fapesp.png" height="100"/> 
 </p>
+
+## Projects under Development
+
+[![PolKA](https://github.com/nerds-ufes/polka/blob/main/mininet/figures/architecture.png)](https://nerds-ufes.github.io/polka/)
+

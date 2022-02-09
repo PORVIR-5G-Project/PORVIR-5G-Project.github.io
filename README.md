@@ -51,9 +51,10 @@ CPU with 6 cores.
 </details>
 <br/>
 
-## Developement 
+## Development 
+Source routing (SR) is a prominent alternative to table-based routing for reducing the number of network states. Actually the traditional SR approaches, based on Port Switching, still maintain a state in the packet by using a header rewrite operation. The residue number system (RNS) is a promising way to achieve fully stateless SR, in which forwarding decisions at core nodes rely on a simple modulo operation over a route label. Nevertheless, such operation over integer arithmetic is not natively supported by commodity network hardware. Thus, PolKA proposes a novel RNS-based SR scheme that explores binary polynomial arithmetic using Galois field (GF) of order 2.
 
-[![PolKA](https://github.com/nerds-ufes/polka/blob/main/mininet/figures/architecture.png)](https://nerds-ufes.github.io/polka/)
+[![PolKA](https://github.com/nerds-ufes/polka/blob/main/mininet/figures/architecture.png|width=200)](https://nerds-ufes.github.io/polka/)
 
 ## News
 

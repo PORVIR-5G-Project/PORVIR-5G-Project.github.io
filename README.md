@@ -5,7 +5,7 @@
     <img src="PORVIR-5G-logo-fundo-claro.png"/> 
 </p>
 
-[Description](#description) | [Members](#members) | [Publications](#publications) | [News](#news) | [Acknowledgement](#acknowledgement)
+[Description](#description) | [Members](#members) | [Publications](#publications) | [Development](#development) | [News](#news) | [Acknowledgement](#acknowledgement)
 
 ## Description
 <p align="justify">
@@ -50,6 +50,10 @@ CPU with 6 cores.
     <strong>URL:</strong> <a href="https://github.com/navarrothiago/upf-bpf">https://github.com/navarrothiago/upf-bpf</a> 
 </details>
 <br/>
+
+## Developement 
+
+[![PolKA](https://github.com/nerds-ufes/polka/blob/main/mininet/figures/architecture.png)](https://nerds-ufes.github.io/polka/)
 
 ## News
 
@@ -96,7 +100,4 @@ PORVIR-5G Project has received funding from the Brazilian Ministry of Science, T
     <img src="mcti.png" height="70"/> <img src="fapesp.png" height="100"/> 
 </p>
 
-## Projects under Development
-
-[![PolKA](https://github.com/nerds-ufes/polka/blob/main/mininet/figures/architecture.png)](https://nerds-ufes.github.io/polka/)
 

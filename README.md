@@ -83,7 +83,7 @@ This scholarship is part of the Project, entitled “Programmability, Orchestrat
 
 **How to apply**
 
-Interested candidates should fill the  <a href="https://forms.gle/RKa3e5nfrCPafEVx7 ">online form </a> until March 15th, 2022, by adding the documents listed below:
+Interested candidates should fill the  <a href="https://forms.gle/RKa3e5nfrCPafEVx7 ">online form </a> until June 15th, 2022, by adding the documents listed below:
 1. A motivation letter for the application;
 2. Curriculum vitae, with list of publications, education background, research track-record, and previous experience;
 3. Ph.D. degree certificate;

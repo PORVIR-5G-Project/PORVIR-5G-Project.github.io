@@ -24,7 +24,11 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
     </details>
 <br/>
 
-
+<details><summary>T. A. N. do Amaral, R. V. Rosa, D. Moura and C. E. Rothenberg, <i>"Run-Time Adaptive In-Kernel BPF/XDP Solution for 5G UPF"</i> In Electronics 11, no. 7. 2022.</summary>
+    <strong>Abstract:</strong> Flexibility is considered a key feature of 5G softwarization to deliver a timely responseto changes in network requirements that may be caused by traffic variation, user mobility, dynamicnetwork function chains, slice lifecycle management operations, among others. In this article, weevolve the upf-bpf open-source project by proposing a new design to improve its flexibility byreducing the run-time adaptation time. The project proposes an in-kernel solution based on BPF andeXpress Data Path (XDP) for 5G User Plane Function (UPF) implementations. The Just-In-Time (JIT)compilation may have a huge impact on the adaptation time due to the in-kernel verification of theBPF programs at run-time. Our results show latency improvements of around 95% to inject the BPFprogram into the Linux kernel. Furthermore, the solution keeps the same functionalities and deliversa packet processing performance of around 10–11 Mpps using 6 cores with almost 70% of the CPUutilization in downlink/uplink directions.
+    <strong>URL:</strong> <a href="https://github.com/navarrothiago/upf-bpf">https://github.com/navarrothiago/upf-bpf</a> 
+</details>
+<br/>
 
 <details><summary> E. Borges  <i>"A lifecycle experience of PolKA: From prototyping to deployment at Geant Lab with RARE/FreeRouter
 "</i> in WPEIF 2022</summary>
@@ -52,7 +56,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 </details>
 <br/>
 
-<details><summary>T. A. N. do Amaral, R. V. Rosa, D. M. and C. E. Rothenberg, <i>"An In-Kernel Solution Based on XDP for 5G UPF:  Design, Prototype and Performance Evaluation,"</i> in 1st Joint International Workshop on Network Programmability & Automation (NetPA), 2021.</summary>
+<details><summary>T. A. N. do Amaral, R. V. Rosa, D. Moura and C. E. Rothenberg, <i>"An In-Kernel Solution Based on XDP for 5G UPF:  Design, Prototype and Performance Evaluation,"</i> in 1st Joint International Workshop on Network Programmability & Automation (NetPA), 2021.</summary>
     <strong>Abstract:</strong> The edge computing infrastructure can scale from datacenters to single device. The well-known technology for fast packet processing is DPDK, which has outstanding performance regarding the throughput and latency. However, there are some drawbacks when the usage is done in the edge: (i) the polling mechanism for packet processing keeps the CPU exclusively occupied even if there is no traffic, leading to wasted resources; and (ii) DPDK interface becomes unavailable for the applications inside the host, so the integration between a non-DPDK application and a DPDK application becomes a hard task. In this paper, we propose an open-source in-kernel 5G UPF solution based on 3GPP Release 16 to be deployed in a restrictive environment like MEC, where MEC host and UPF are collocated with the Base Station, sharing the same computational and network resources. The solution leverages the eBPF/XDP, a novel Linux kernel technology for fast packet processing. We show it can scale and achieve 10 Mpps using only 60% of the CPU with 6 cores.
     <strong>URL:</strong> <a href="https://github.com/navarrothiago/upf-bpf">https://github.com/navarrothiago/upf-bpf</a> 
 </details>

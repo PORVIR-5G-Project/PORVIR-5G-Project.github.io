@@ -19,6 +19,15 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 ## Publications
 
+<details><summary>R. S. Guimarães et al. <i>"M-PolKA: Multipath Polynomial Key-based Source Routing for Reliable Communications"</i> in IEEE Transactions on Network and Service Management.</summary>
+    <strong>Abstract:</strong> Innovative traffic engineering functions and services require disrupting routing and forwarding mechanisms to be performed with low overhead over complex network topologies. Source routing (SR) is a prominent alternative to table-based routing for providing the needed expressiveness and agility by reducing the number of network states. This work proposes the M-PolKA, a topology-agnostic multipath source routing scheme and orchestration architecture for reliable communications, which explores special properties from the Residue Number System (RNS) polynomial arithmetic. A P4-based proof-of-concept is experimentally demonstrated using emulated and hardware prototypes. Also, use cases for revealing M-PolKA’s functionalities are tested in different scenarios in order to address problems, such as communication reliability improvement, agile path migration and fast failure reaction. Finally, low overhead for extra functionalities is observed when RNS-based SR is compared to traditional routing approaches.
+    
+    
+    <strong>URL:</strong> <a href="https://doi.org/10.1109/TNSM.2022.3160875">https://doi.org/10.1109/TNSM.2022.3160875</a>
+</details>
+<br/>
+
+
 <details><summary>G. Miranda, D. F. Macedo and J. M. Marquez-Barja, <i>"Estimating Video on Demand QoE from Network QoS through ICMP Probes,"</i> in IEEE Transactions on Network and Service Management.</summary>
     <strong>Abstract:</strong> With the increasing traffic of vod, network providers are seeking to deliver high qoe for their users. Many methods have been proposed to assess vod-related qoe. Some of them rely on client instrumentation and reporting qoe information to network elements, such as Server and Network Assisted DASH, others are based on statistical methods that make qoe inferences using monitored network conditions, such as throughput and delays. In this article, we present a practical method to estimate qoe for vod using the widely supported icmp probes. Measured network conditions are used as input to a ml model that estimates qoe in terms of mos, based on the ITU-T P.1203 Recommendation. The estimation encompasses video quality switches and playback stalls. We estimate mos with an average rmse of 1.05 for a catalog of 25 different videos, training a model with sessions of the shortest video, and evaluating the generalization to the full catalog. We performed experiments using a virtualized setup as well as in a Wide Area Network.
     <strong>URL:</strong> <a href="https://doi.org/10.1109/TNSM.2021.3129610">https://doi.org/10.1109/TNSM.2021.3129610</a>

@@ -19,6 +19,13 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 ## Publications
 
+<details><summary> Cussuo, E.,  Sachetti L., Santos B., Mota V.F.S <i>"OTALab: um ambiente de experimentação remota de protocolos e aplicações em Internet das Coisas"</i> In Salão de Ferramentas Jointly XL Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Fortaleza, 2022.</summary>
+    <strong>Abstract:</strong> This paper presents the OTALab, a tool for creating and deploying experimentation environments of  Internet of Things  applications in low-cost microcontrollers. The OTALab aims for fast deployment and configuration of an experimentation environment testbed. OTALab has two users profiles: administrators and experimenters. For the former, the OTALab exposes an admin interface able to add/remove IoT devices, services, and functionalities to the system. For the latter, the experimenters,  can visualize the available services in each device and submit their own code to the devices through a command line or a Web application. OTALab receives the source code, compiles it to the specific microcontroller, and updates the device's firmware through the OTA  paradigm. The OTALab is composed by a library of microcontrollers, a device management server, and a Web application. The tool can be instantiated locally or in a distributed fashion, improving its flexibility.
+    </details>
+<br/>
+
+
+
 <details><summary> E. Borges  <i>"A lifecycle experience of PolKA: From prototyping to deployment at Geant Lab with RARE/FreeRouter
 "</i> in WPEIF 2022</summary>
     <strong>Abstract:</strong> In this paper, we take the position of developers that need to deploy emerging programmable protocols (or services) with specific network requirements and want to know how to benefit from an open router platform and testbed infrastructure. Our focus is to exploit the PolKA lifecycle experience as a use case to figure out a balance between integrating and reusing legacy protocols with new protocols.

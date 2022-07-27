@@ -86,6 +86,13 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 </details>
 <br/>
 
+<details><summary>Prade, L., Moraes, J., Albuquerque, E., Rosário, D., Both, C., <i>"Multi-radio and multi-hop LoRa communication architecture for
+large scale IoT deployment,"</i> Computers and Electrical Engineering.</summary>
+    <strong>Abstract:</strong> nternet of Things (IoT) devices must cover large areas in the farmlands to collect vital information and avoid financial losses to improve agriculture efficiency. It is crucial to hold data acquisition in farms where network connectivity is a limitation in this context. Long-Range Wide Area Network (LoRaWAN) provides a broad coverage area tailored for IoT applications using unlicensed frequency bands with low power consumption and throughput. However, LoRaWAN might not be suitable for data acquisition on farms with hundreds of kilometers. Therefore, a multi-hop Long-Range (LoRa) network emerged as a promising solution in applications requiring extensive deployment. However, a multi-hop architecture must be designed to cope with the limitations of LoRa deployment in large-scale scenarios. This article introduces a multi-radio and multi-hop LoRa communication architecture to enhance the coverage and service for large-scale IoT deployment in rural areas, called Multi-LoRa. We present a hardware prototype for physically implementing the Multi-LoRa architecture. The results show that Multi-LoRa effectively mitigates the difficulties of multi-hop communication over LoRa for large-scale IoT deployment. Multi-LoRa reduced the delay by 60% and packet loss by 2.9% compared to different setups of Multi-LoRa on a small-scale physical testbed and large-scale simulation environment.
+     <strong>URL:</strong> <a href="https://doi.org/10.1016/j.compeleceng.2022.108242">https://doi.org/10.1016/j.compeleceng.2022.108242</a>
+</details>
+<br/>
+
 ## Development 
 Source routing (SR) is a prominent alternative to table-based routing for reducing the number of network states. Actually the traditional SR approaches, based on Port Switching, still maintain a state in the packet by using a header rewrite operation. The residue number system (RNS) is a promising way to achieve fully stateless SR, in which forwarding decisions at core nodes rely on a simple modulo operation over a route label. Nevertheless, such operation over integer arithmetic is not natively supported by commodity network hardware. Thus, PolKA proposes a novel RNS-based SR scheme that explores binary polynomial arithmetic using Galois field (GF) of order 2.
 

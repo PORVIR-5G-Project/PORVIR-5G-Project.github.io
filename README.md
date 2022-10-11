@@ -134,6 +134,15 @@ Source routing (SR) is a prominent alternative to table-based routing for reduci
 ## News
 
 ### News #1 - PolKA proposal will be demonstrated as a Network Research Exibition in SuperComputing 2022 <a href="https://sc22.supercomputing.org/"> https://sc22.supercomputing.org/</a> 
+<p align="justify">  
+
+This NRE proposes to demonstrate PolKA functionalities to support the TE extreme challenges for data-intensive science (DIS). PolKA is a novel source routing approach that explores the Residue Number System (RNS) and Chinese Remainder Theorem (CRT) by performing the forwarding as an arithmetic operation: the remainder of division. PolKA encodes the path in a routeID using the RNS in contrast to the conventional list-based representation, which transports the path information “in clear” inside the packet header. Then, PolKA core nodes use this encoded route label to discover the output ports.
+The plan of demonstration is to create an overlay network with PolKA tunnels forming virtual circuits to validate the data-intensive transfer over 10G and 100G+ as a proof-of-principle of PolKA mechanisms. At the edge, flows can be classified, balanced and steered by using a Policy-Based Routing (PBR). A number of virtual circuits may be configured by dividing the capacity of the physical links and using them to serve the flows. Underlay congestion can be detected by tunnel monitoring and signalized to the overlay, and overlay routing can steer traffic from congested tunnels to other paths. Comparisons between segment routing and PolKA regarding controllability and performance metrics are also planned in this demonstation. 
+</p>
+<p align="justify">
+
+The goal is to investigate whether PolKA approach deployed at Global P4 Lab (RARE/freeRtr) meets the needs of DIS networks, working with other software tools and subsystems developed by the DIS-WG for constructing switched overlay networks composed of network paths with bandwidth guarantees, load balancing, prioritizing and scheduling flows over selected multi-domain paths, and making decisions on the coordinated use of network and site computing and storage resources to help accelerate the science workflows.
+</p>
 
 ### News #2 - Post-doctoral fellowship in 5G slicing, orchestration, and programmability
 <p align="justify">

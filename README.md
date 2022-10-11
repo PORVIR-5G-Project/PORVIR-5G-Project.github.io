@@ -18,8 +18,6 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 </p>
 
 ## Publications
-
-
 <details><summary> B. M. Xavier, R. S. Guimarães, G. Comarela and M. Martinello, <i>" MAP4: A Pragmatic Framework for In-Network Machine Learning Traffic Classification "</i> in IEEE Transactions on Network and Service Management, 2022. </summary>
     <strong>Abstract:</strong> 
     Self-driving networks guided by machine-learning (ML) algorithms are the driving force for building networks of the future. ML is effective at making inferences about data that is too complex or too unpredictable for humans. The network softwarization enabled by a deep programmability approach opens up new opportunities to deploy ML at the programmable data plane. In this paper, we introduce the MAP4 as a framework that explores the feasibility of mapping ML models in programmable network devices. To achieve this, we rely on the P4 language to deploy a pre-trained model into a programmable switch, utilizing the ML model to accurately classify flows at line rate. Our approach demonstrates that ML models working as classifiers can better fit the data by using the new levels of network programmability from the P4 language. The results showed that with few packets, most of the flows are properly classified. In some use cases, with two packets in the flow, 97% of traffic can be correctly classified, and all classes are properly labeled with a maximum of four packets.    
@@ -27,6 +25,26 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 </details>
 <br/>
 
+<details><summary> J. P. De Brito Gonçalves, G. Alochio, R. Da Silva Villaça and R. L. Gomes, "Data Integrity Verification in Network Slicing using Oracles and Smart Contracts," 2022 IEEE International Conference on Blockchain (Blockchain), 2022, pp. 476-481. </summary>
+<strong>Abstract:</strong> 
+The fifth-generation (5G) wireless networks are expected to provide various services compared to the 4G and previous generations of networks. The Quality of Service requirements can be quite different in terms of latency, bandwidth, reliability, and availability. 5G technology allows the fragmentation of the network into small pieces, known as network slices. This network slicing is done by specific tools and the configuration must be protected from attacks that may be performed by malicious users. Thus in this paper, a solution to protect and prevent these failures from happening is addressed. For this solution to be carried out, a study was conducted on the Blockchain technology, as well as the use of Oracles in order to implement an integrity verification system, a system capable of assuring 5G network slices' configuration integrity through a complete architecture involving Blockchain, Smart Contracts and Oracles.
+<strong>URL:</strong> <a href="https://doi.org/10.1109/Blockchain55522.2022.00073"> https://doi.org/10.1109/Blockchain55522.2022.00073</a>
+</details>
+<br/>
+
+<details><summary> J. P. De Brito Gonçalves and R. Da Silva Villaça, "A Blockchained Incentive Architecture for Federated Learning," 2022 IEEE International Conference on Blockchain (Blockchain), 2022, pp. 482-487. </summary>
+<strong>Abstract:</strong> 
+The naive use of Federated Learning (FL) in a distributed environment exposes it to a risk of corruption, whether intentional or not, during the training phase. It happens because of the lack of monitoring of the training increments and difficulty of checking the quality of the training datasets. A very common type of attack of this type is Model Poisoning. To improve the security of the FL structure, we propose a decentralized FL framework based on blockchain, that is, a blockchain-based FL framework to increment the system security using an incentive mechanism to reward good trainers in the form of tokens. The system modeling will be presented as well as its implementation in the Mininet simulator. The validation tests performed to attest its accuracy were executed using the MNIST dataset.
+<strong>URL:</strong> <a https://doi.org/10.1109/Blockchain55522.2022.00074"> https://doi.org/10.1109/Blockchain55522.2022.00074</a>
+</details>
+<br/>
+
+<details><summary> J. P. de Brito Gonçalves, G. Spelta, R. da Silva Villaça and R. L. Gomes, "IoT Data Storage on a Blockchain Using Smart Contracts and IPFS," 2022 IEEE International Conference on Blockchain (Blockchain), 2022, pp. 508-511. </summary>
+<strong>Abstract:</strong> 
+Since the creation of the cryptocurrency Bitcoin, the interest in blockchain technology has increased, entering areas such as loT (Internet of Things) and data sharing. The main objective of this paper is to develop a system that allows the storage of data from loT services in a decentralized network with a blockchain managing transactions through a smart contract. The project was carried out using the blockchain Ethereum, IPFS (InterPlanetary File System) for storage, Solidity language for contract development, NodeJS for coding the simulation of loT devices, web interface and back-end of the solution. The MQTT protocol was used to transport data from the devices. Our main objective was achieved, as the tests carried out show use cases in which this solution has an advantage over the direct storage in the Ethereum blockchain.
+<strong>URL:</strong> <a https://doi.org/10.1109/Blockchain55522.2022.00078"> https://doi.org/10.1109/Blockchain55522.2022.00078</a>
+</details>
+<br/>
 
 <details><summary> Cussuo, E.,  Sachetti L., Santos B., Mota V.F.S <i>"OTALab: um ambiente de experimentação remota de protocolos e aplicações em Internet das Coisas"</i> In Salão de Ferramentas Jointly XL Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Fortaleza, 2022.</summary>
     <strong>Abstract:</strong> This paper presents the OTALab, a tool for creating and deploying experimentation environments of  Internet of Things  applications in low-cost microcontrollers. The OTALab aims for fast deployment and configuration of an experimentation environment testbed. OTALab has two users profiles: administrators and experimenters. For the former, the OTALab exposes an admin interface able to add/remove IoT devices, services, and functionalities to the system. For the latter, the experimenters,  can visualize the available services in each device and submit their own code to the devices through a command line or a Web application. OTALab receives the source code, compiles it to the specific microcontroller, and updates the device's firmware through the OTA  paradigm. The OTALab is composed by a library of microcontrollers, a device management server, and a Web application. The tool can be instantiated locally or in a distributed fashion, improving its flexibility.

@@ -133,7 +133,9 @@ Source routing (SR) is a prominent alternative to table-based routing for reduci
 
 ## News
 
-### News #1 - Post-doctoral fellowship in 5G slicing, orchestration, and programmability
+### News #1 - PolKA proposal will be demonstrated as a Network Research Exibition in SuperComputing 2022 <a href="https://sc22.supercomputing.org/"> https://sc22.supercomputing.org/</a> 
+
+### News #2 - Post-doctoral fellowship in 5G slicing, orchestration, and programmability
 <p align="justify">
 We are seeking candidates for a post-doctoral fellowship position for 12 months to work at a joint UFMG-UNICAMP-UFES-UNISINOS-UFRGS project. Due to the number of institutions as well as the situation with COVID-19, there is a great amount of flexibility in the place of work. The candidate will be allocated to one of the host universities and will work with researchers of the consortium. 
 </p>

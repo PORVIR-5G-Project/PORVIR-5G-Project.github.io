@@ -19,6 +19,16 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 ## Publications
 
+
+<details><summary> Bruno Missi Xavier <i>" MAP4: A Pragmatic Framework for In-Network Machine Learning Traffic Classification "</i> in IEEE Transactions on Network and Service Management.</summary>
+    <strong>Abstract:</strong> 
+    Self-driving networks guided by machine-learning (ML) algorithms are the driving force for building networks of the future. ML is effective at making inferences about data that is too complex or too unpredictable for humans. The network softwarization enabled by a deep programmability approach opens up new opportunities to deploy ML at the programmable data plane. In this paper, we introduce the MAP4 as a framework that explores the feasibility of mapping ML models in programmable network devices. To achieve this, we rely on the P4 language to deploy a pre-trained model into a programmable switch, utilizing the ML model to accurately classify flows at line rate. Our approach demonstrates that ML models working as classifiers can better fit the data by using the new levels of network programmability from the P4 language. The results showed that with few packets, most of the flows are properly classified. In some use cases, with two packets in the flow, 97% of traffic can be correctly classified, and all classes are properly labeled with a maximum of four packets.    
+    <strong>URL:</strong> <a href="https://ieeexplore.ieee.org/document/9913715">https://ieeexplore.ieee.org/document/9913715</a>
+</details>
+<br/>
+
+
+
 <details><summary> Cussuo, E.,  Sachetti L., Santos B., Mota V.F.S <i>"OTALab: um ambiente de experimentação remota de protocolos e aplicações em Internet das Coisas"</i> In Salão de Ferramentas Jointly XL Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, Fortaleza, 2022.</summary>
     <strong>Abstract:</strong> This paper presents the OTALab, a tool for creating and deploying experimentation environments of  Internet of Things  applications in low-cost microcontrollers. The OTALab aims for fast deployment and configuration of an experimentation environment testbed. OTALab has two users profiles: administrators and experimenters. For the former, the OTALab exposes an admin interface able to add/remove IoT devices, services, and functionalities to the system. For the latter, the experimenters,  can visualize the available services in each device and submit their own code to the devices through a command line or a Web application. OTALab receives the source code, compiles it to the specific microcontroller, and updates the device's firmware through the OTA  paradigm. The OTALab is composed by a library of microcontrollers, a device management server, and a Web application. The tool can be instantiated locally or in a distributed fashion, improving its flexibility.
     </details>

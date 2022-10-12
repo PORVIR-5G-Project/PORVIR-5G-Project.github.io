@@ -145,7 +145,6 @@ The plan of demonstration is to create an overlay network with PolKA tunnels for
 
 
 <p align="justify">
-
 The goal is to investigate whether PolKA approach deployed at Global P4 Lab (RARE/freeRtr) meets the needs of DIS networks, working with other software tools and subsystems developed by the DIS-WG for constructing switched overlay networks composed of network paths with bandwidth guarantees, load balancing, prioritizing and scheduling flows over selected multi-domain paths, and making decisions on the coordinated use of network and site computing and storage resources to help accelerate the science workflows.
 </p>
 

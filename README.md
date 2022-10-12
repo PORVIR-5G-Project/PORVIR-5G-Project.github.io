@@ -135,7 +135,6 @@ Source routing (SR) is a prominent alternative to table-based routing for reduci
 
 ### News #1 - PolKA proposal will be demonstrated as a Network Research Exibition in SuperComputing 2022 <a href="https://sc22.supercomputing.org/"> https://sc22.supercomputing.org/</a> 
 <p align="justify">  
-
 This NRE proposes to demonstrate PolKA functionalities to support the TE extreme challenges for data-intensive science (DIS). PolKA is a novel source routing approach that explores the Residue Number System (RNS) and Chinese Remainder Theorem (CRT) by performing the forwarding as an arithmetic operation: the remainder of division. PolKA encodes the path in a routeID using the RNS in contrast to the conventional list-based representation, which transports the path information “in clear” inside the packet header. Then, PolKA core nodes use this encoded route label to discover the output ports.
 </p>
 

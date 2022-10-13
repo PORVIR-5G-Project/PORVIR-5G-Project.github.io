@@ -35,14 +35,14 @@ The fifth-generation (5G) wireless networks are expected to provide various serv
 <details><summary> J. P. De Brito Gonçalves and R. Da Silva Villaça, "A Blockchained Incentive Architecture for Federated Learning," 2022 IEEE International Conference on Blockchain (Blockchain), 2022, pp. 482-487. </summary>
 <strong>Abstract:</strong> 
 The naive use of Federated Learning (FL) in a distributed environment exposes it to a risk of corruption, whether intentional or not, during the training phase. It happens because of the lack of monitoring of the training increments and difficulty of checking the quality of the training datasets. A very common type of attack of this type is Model Poisoning. To improve the security of the FL structure, we propose a decentralized FL framework based on blockchain, that is, a blockchain-based FL framework to increment the system security using an incentive mechanism to reward good trainers in the form of tokens. The system modeling will be presented as well as its implementation in the Mininet simulator. The validation tests performed to attest its accuracy were executed using the MNIST dataset.
-<strong>URL:</strong> <a https://doi.org/10.1109/Blockchain55522.2022.00074"> https://doi.org/10.1109/Blockchain55522.2022.00074</a>
+<strong>URL:</strong> <a href="https://doi.org/10.1109/Blockchain55522.2022.00074"> https://doi.org/10.1109/Blockchain55522.2022.00074</a>
 </details>
 <br/>
 
 <details><summary> J. P. de Brito Gonçalves, G. Spelta, R. da Silva Villaça and R. L. Gomes, "IoT Data Storage on a Blockchain Using Smart Contracts and IPFS," 2022 IEEE International Conference on Blockchain (Blockchain), 2022, pp. 508-511. </summary>
 <strong>Abstract:</strong> 
 Since the creation of the cryptocurrency Bitcoin, the interest in blockchain technology has increased, entering areas such as loT (Internet of Things) and data sharing. The main objective of this paper is to develop a system that allows the storage of data from loT services in a decentralized network with a blockchain managing transactions through a smart contract. The project was carried out using the blockchain Ethereum, IPFS (InterPlanetary File System) for storage, Solidity language for contract development, NodeJS for coding the simulation of loT devices, web interface and back-end of the solution. The MQTT protocol was used to transport data from the devices. Our main objective was achieved, as the tests carried out show use cases in which this solution has an advantage over the direct storage in the Ethereum blockchain.
-<strong>URL:</strong> <a https://doi.org/10.1109/Blockchain55522.2022.00078"> https://doi.org/10.1109/Blockchain55522.2022.00078</a>
+<strong>URL:</strong> <a href="https://doi.org/10.1109/Blockchain55522.2022.00078"> https://doi.org/10.1109/Blockchain55522.2022.00078</a>
 </details>
 <br/>
 

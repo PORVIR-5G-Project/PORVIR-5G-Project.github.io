@@ -132,11 +132,12 @@ large scale IoT deployment,"</i> in Computers and Electrical Engineering, Volume
 </details>
 <br/>
 
-<details><summary>Grings, F., Silveira, L., Lúcio Prade, Cardoso, K., Correa, S. and Both, C., <i>"Full dynamic orchestration in 5G core network slicing over a cloud-native platform,"</i> IEEE Global Communications Conference (GLOBECOM 2022).</summary>
+<details><summary>Grings, F., Silveira, L., Lúcio Prade, Cardoso, K., Correa, S. and Both, C., <i>"Full dynamic orchestration in 5G core network slicing over a cloud-native platform,"</i> IEEE Global Communications Conference (GLOBECOM), 2022, pp. 2885-2890.</summary>
     <strong>Abstract:</strong> Technological advances in the fifth-generation (5G) mobile networks are based on native cloud computing platforms, and Kubernetes (K8S) has emerged as a relevant orchestration system in this context. However, these platforms were not designed to support 5G services natively. To illustrate, Kubernetes is designed to be agnostic to the services that it orchestrates and cannot dynamically reconfigure the 5G core according to existing network resources, i.e., it provides a partial dynamic orchestration to perform network slicing. This paper proposes a solution integrated with K8S to allow full dynamic orchestration of network slicing at runtime, including online adjustments in the 5G core. This integration is accomplished through a K8S-integrated controller for the control plane. The controller adjusts the 5G core and adapts the virtualized infrastructure. The results show a reconfiguration based on full dynamic orchestration without interruption of the services provided, reducing by close to 50% the full reconfiguration requests number by network slices.
     <strong>URL:</strong> <a href="https://doi.org/10.1109/GLOBECOM48099.2022.10000663">https://doi.org/10.1109/GLOBECOM48099.2022.10000663</a>
 </details>
 <br/>
+
 
 ## Development 
 Source routing (SR) is a prominent alternative to table-based routing for reducing the number of network states. Actually the traditional SR approaches, based on Port Switching, still maintain a state in the packet by using a header rewrite operation. The residue number system (RNS) is a promising way to achieve fully stateless SR, in which forwarding decisions at core nodes rely on a simple modulo operation over a route label. Nevertheless, such operation over integer arithmetic is not natively supported by commodity network hardware. Thus, PolKA proposes a novel RNS-based SR scheme that explores binary polynomial arithmetic using Galois field (GF) of order 2.

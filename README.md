@@ -18,6 +18,14 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 </p>
 
 ## Publications
+<details><summary>de O. Pereira, I., Dominicini, C.K., Guimarães, R.S., Villaça, R.S., Almeida, L.R., Vassoler, G. <i>"MPolKA-INT: Stateless Multipath Source Routing for In-Band Network Telemetry."</i> In: Barolli, L. (eds) Advanced Information Networking and Applications. AINA 2023. Lecture Notes in Networks and Systems, vol 654. Springer, Cham.</summary>
+<strong>Abstract:</strong>
+Real-time monitoring and measurement are the basis for most management operations, such as traffic engineering, quality of service assurance, and anomaly detection. Nevertheless, collecting measurements from all network devices with sampling and polling-based methods is not scalable. To tackle this issue, the P4 Language Consortium proposed the In-band Network Telemetry (INT) framework that provides real-time and fine-grain measurements in the data plane using telemetry packets. However, the task of specifying the route taken by a telemetry probe still relays on the traditional routing protocols, which require state changes in routing tables and fail to achieve the required accuracy, coverage and latency. In this context, this article investigates how to combine INT with a source routing method based on the stateless Multipath Polynomial Key-based Architecture (M-PolKA). We implemented this multipath telemetry solution as MPolKA-INT using the P4 language, and the experimental results showed low overhead in the data and control planes with agile and flexible path (re)configuration, since it does not require state changes in the routing tables of the devices in the network core.
+<strong>URL:</strong> <a href="https://doi.org/10.1007/978-3-031-28451-9_45">https://doi.org/10.1007/978-3-031-28451-9_45</a>
+</details>
+<br/>
+
+
 <details><summary>M. Carvalho and D. F. Macedo, <i>"Container Scheduling in Co-Located Environments Using QoE Awareness"</i> in IEEE Transactions on Network and Service Management, 2023.</summary>
     <strong>Abstract:</strong>
 Existing Cloud deployments usually perform automated scheduling and rescheduling based on Quality of Service (QoS) objectives. Services are migrating towards Quality of Experience (QoE), which maps the user experience more effectively than QoS. This work proposes extensions to the Kubernetes scheduler in order to employ QoE objectives into the algorithm. For that, we created deep learning models (using LSTM) to estimate user’s QoE that the cloud can offer. The evaluation was performed on a testbed, and considered two QoE-aware applications (live classroom and video on demand). Experimental results in a testbed show that our scheduler improves the average QoE by at least 61.5% compared to other schedulers, while our proposed resource rescheduling improved the QoE by up to 119%, keeping the average QoE closer to the maximum..

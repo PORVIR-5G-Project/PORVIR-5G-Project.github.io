@@ -41,6 +41,12 @@ Existing Cloud deployments usually perform automated scheduling and rescheduling
 </details>
 <br/>
 
+<details><summary>G. Lando, L. A. F. Schierholt, M. P. Milesi, J. A. Wickboldt, <i>"Evaluating the performance of open source software implementations of the 5G network core"</i> in NOMS 2023-2023 IEEE/IFIP Network Operations and Management Symposium, 2023.</summary>
+    <strong>Abstract:</strong> 
+Open source implementations of software-based network components have become a viable alternative to deploy and operate 5G networks. Although these implementations provide great flexibility, overall network performance becomes dependent not only on the choice of the software stack, but also on its combination with suitable hardware. In this context, performance testing becomes an essential tool to assess the behavior of these software-based mobile networks under different deployment scenarios. Therefore, the goal of this work is to analyze how the different open source implementations of the 5G network core behave for the execution of procedures at scale. To achieve this goal, we propose and apply performance tests on some of the main open source implementations of the 5G network core. We focus on the evaluation of the performance of two essential procedures: (i) the user equipment registration and session establishment and (ii) the streaming of user data over parallel data plane connections. Among the main results obtained, it was possible to observe that the open source implementation free5GC presents better performance regarding data plane bit rates, while Open5GS shows better stability during the registration process of multiple devices.
+    <strong>URL:</strong> <a href="https://doi.org/10.1109/NOMS56928.2023.10154399">https://doi.org/10.1109/NOMS56928.2023.10154399</a>
+</details>
+<br/>
 
 <details><summary>D. Soares, M. Carvalho and D. F. Macedo, <i>"A Stacking Learning-Based QoE Model for Cloud Gaming"</i> in NOMS 2023-2023 IEEE/IFIP Network Operations and Management Symposium, 2023.</summary>
     <strong>Abstract:</strong> 

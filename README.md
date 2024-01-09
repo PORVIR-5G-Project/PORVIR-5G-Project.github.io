@@ -26,6 +26,12 @@ Over the last three decades, we have become more dependent on wireless connectiv
 </details>
 <br/>
 
+<details><summary>Martínez, Víctor M. G., Guimarães, Rafael S., Mello, Ricardo C., do Carmo, Alexandre P., Vassallo, Raquel F., Villaça, Rodolfo S., Ribeiro, Moisés R. N., Martinello, Magnos. <i>"Make Before Degrade: A Context-Aware Software-Defined WiFi Handover"</i> In: Barolli, L. (eds) Advanced Information Networking and Applications. AINA 2023. Lecture Notes in Networks and Systems, vol 654. Springer, Cham.</summary>
+<strong>Abstract:</strong>
+Ultra-reliable and low-latency communications are essential for new services and applications in Industry 4.0. URLLC is also required to provide traffic density to meet the throughput demands of its clients across the coverage area via cell densification. However, cell densification implies that handover between serving stations will become more and more frequent. In this paper, we introduce the Make Before Degrade solution for zero mobility interruption with a single radio connection. Mobility management is based on contextual information that allows prudently to shift traffic flows before their propagation paths are compromised. The paper brings a proof-of-principle software-defined WiFi testbed able to meet 3GPP’s traffic density specifications in which contextual information is provided by computer vision. An Industry 4.0 use case based on cloud robotics demonstrates the practical applicability of our proposal.
+<strong>URL:</strong> <a href="https://doi.org/10.1007/978-3-031-28451-9_49">https://doi.org/10.1007/978-3-031-28451-9_49</a>
+</details>
+<br/>
 
 <details><summary>de O. Pereira, I., Dominicini, C.K., Guimarães, R.S., Villaça, R.S., Almeida, L.R., Vassoler, G. <i>"MPolKA-INT: Stateless Multipath Source Routing for In-Band Network Telemetry."</i> In: Barolli, L. (eds) Advanced Information Networking and Applications. AINA 2023. Lecture Notes in Networks and Systems, vol 654. Springer, Cham.</summary>
 <strong>Abstract:</strong>

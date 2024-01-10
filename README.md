@@ -19,6 +19,28 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 ## Publications
 
+<details>
+<summary>Franco, G., Crovella, M., Comarela, G.
+<i>"Dependence and Model Selection in LLP: The Problem of Variants."</i>
+In:  The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023
+</summary>
+<strong>Abstract:</strong>
+The problem of Learning from Label Proportions (LLP) has received considerable research attention and has numerous practical applications. In LLP, a hypothesis assigning labels to items is learned using knowledge of only the proportion of labels found in predefined groups, called bags. While a number of algorithmic approaches to learning in this context have been proposed, very little work has addressed the model selection problem for LLP. Nonetheless, it is not obvious how to extend straightforward model selection approaches to LLP, in part because of the lack of item labels. More fundamentally, we argue that a careful approach to model selection for LLP requires consideration of the dependence structure that exists between bags, items, and labels. In this paper we formalize this structure and show how it affects model selection. We show how this leads to improved methods of model selection that we demonstrate outperform the state of the art over a wide range of datasets and LLP algorithms.
+<strong>URL:</strong> <a href="https://doi.org/10.1145/3580305.3599307">https://doi.org/10.1145/3580305.3599307</a>
+</details>
+<br/>
+
+<details>
+<summary>Cavalini, A., Malini, F., Gouveia, F., Comarela G.
+<i>"Politics and disinformation: Analyzing the use of Telegram's information disorder network in Brazil for political mobilization"</i>
+In:  First Monday, 2023
+</summary>
+<strong>Abstract:</strong>
+Over the past few years, with the increasing popularization of network communication in place of traditional mass communication, supported by social platforms and messengers, political campaigns have come to rely on new tools and methods, including the use of these structures to promote an environment of information disorder for the purpose of mobilization. This work followed the use of Telegram as a tool for political mobilization in Brazil, collecting data from a dense network of information disorder used to mobilize voters in support of then-president Jair Bolsonaro on 7 September 2021 and 2022, Independence Day in Brazil. The results showed that engagement was reduced, mainly due to the lack of support from certain groups such as anti-vaccination advocates and the truck drivers’ class. There was also a decrease in extremism on discussion themes and lower user activity levels.
+<strong>URL:</strong> <a href="https://doi.org/10.5210/fm.v28i5.12901">https://doi.org/10.5210/fm.v28i5.12901</a>
+</details>
+<br/>
+
 <details><summary>Martínez, V.M.G., Ribeiro, M.R.N.,  Mota, V.F.S. <i>"Wi-Fi faces the new wireless ecosystem: a critical review."</i> In:  Annals of  Telecommunications. vol 78. Springer,  2023.</summary>
 <strong>Abstract:</strong>
 Over the last three decades, we have become more dependent on wireless connectivity to access services and applications from nearly anywhere. The overstated emergence of the all-encompassing fifth generation (5G) of mobile systems begs the question of the future of the new generation of IEEE 802.11 (Wi-Fi) solutions. However, Wi-Fi has certain advantages compared to cellular systems in different ways: (i) a fast-paced standardization process; (ii) a diverse, agile, and highly competitive manufacturer base; and (iii) a broad base of early adopters for both office and house wireless networks. In addition, the rise of enabling technologies, such as software-defined wireless networks, may allow more robust and reliable Wi-Fi networks to bridge gaps in Wi-Fi technology to reach several vertical sectors. This review provides a technical analysis of the relationship between broadband wireless and Wi-Fi technologies. Wi-Fi has taken decisive steps with the evolution of several standards, and there is already evidence that Wi-Fi may partially (or completely) fulfill 5G’s strict service requirements. Next, we discussed the Wi-Fi and 5G convergence, which allow more control over user experiences and provide better service. This review concludes with an analysis of open challenges in the convergence of 5G and Wi-Fi systems. We conclude that Wi-Fi technology has and will continue to have a decisive role as an access technology in the new ecosystem of wireless networks.

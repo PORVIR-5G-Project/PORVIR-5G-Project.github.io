@@ -20,6 +20,29 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 ## Publications
 
 <details>
+<summary>MOURA, H. D. ; OLIVEIRA, J. ; SOARES, D. H. C. M. ; MACEDO, DANIEL FERNANDES ; VIEIRA, Marcos Augusto Menezes
+<i>"Improved Video QoE in Wireless Networks using Deep Reinforcement Learning."</i>
+In:  19th International Conference on Network and Service Management (CNSM), 2023
+</summary>
+<strong>Abstract:</strong>
+Millions of videos are watched per minute on the Internet. Due to real-time performance demands, such as high-quality video streaming, network administrators face new challenges to control the network and cope with the expected quality of experience (QoE). Automatic control is a necessity to reduce the OPEX, because it could reduce the need for resource overprovisioning, as well as the number of human administrators. Dynamic rate in video streaming alleviates the resource usage, but it worsens the video quality when a network bottleneck occurs, lowering the QoE. This paper dynamically adjusts the IEEE 802.11 parameters to improve the network condition and hence maintain a higher QoE. While traditional networks are not aware of the application, in our proposal the controller learns the configuration of the access points (APs) (in terms of transmission power and channel number) that provide the best QoE, using double deep Q-Learning (DDQL). The proposal improves video QoE by 91 % in the best case, when compared to three baselines. It also balances the QoE among clients, improving the fairness up to 115% when compared to the baselines.
+<strong>URL:</strong> <a href="https://doi.org/10.23919/CNSM59352.2023.10327822">https://doi.org/10.23919/CNSM59352.2023.10327822</a>
+</details>
+<br/>
+
+<details>
+<summary>Gilson Miranda; Jetmir Haxhibeqiri; Daniel F. Macedo; Johann M. Marquez-Barja
+<i>"Soft-W-TSN: Extending Time-Sensitive Networking Capabilities to Wi-Fi Using Virtualized Elements."</i>
+In:  IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 2023
+</summary>
+<strong>Abstract:</strong>
+Industrial processes are becoming increasingly complex, demanding accurate monitoring and timely communication for process correction and optimization actions. Time-Sensitive Networking (TSN) comprises a set of standards being developed by IEEE to enable reliable and bounded low-latency communication over Ethernet networks. These standards allow an operator to have more control over traffic prioritization and latency, and offer features to enhance network communication reliability. Extending such features to wireless networks is a natural step in achieving more flexible deployments and supporting use cases involving mobility. In this work, we present an architecture and proof-of-concept to support extending TSN capabilities to Wi-Fi deployments and to enable flexible deployments of Wi-Fi access points tailored for different use cases. We show the experimental results with a testbed highlighting the main functionalities implemented to support an example use case.
+<strong>URL:</strong> <a href="https://doi.org/10.1109/NFV-SDN59219.2023.10329591">https://doi.org/10.1109/NFV-SDN59219.2023.10329591</a>
+</details>
+<br/>
+
+
+<details>
 <summary>Franco, G., Crovella, M., Comarela, G.
 <i>"Dependence and Model Selection in LLP: The Problem of Variants."</i>
 In:  The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023

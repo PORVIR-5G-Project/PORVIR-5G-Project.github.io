@@ -252,7 +252,60 @@ Source routing (SR) is a prominent alternative to table-based routing for reduci
 
 ## News
 
-### News #1 - PolKA proposal will be demonstrated as a Network Research Exibition in SuperComputing 2022 <a href="https://sc22.supercomputing.org/"> https://sc22.supercomputing.org/</a> 
+
+
+### News #1 - Post-doctoral fellowship in 5G slicing, orchestration, and programmability
+
+**Post-doctoral fellowship**: R$ 9.318,90 (about USD 1,730 and EUR 1,600) plus  research contingency funds (10% of the annual value of the fellowship, each year).
+
+**Deadline to apply**: 	Jul 15th, 2024
+
+**Beginning at**: Aug-Sep, 2024
+
+**Duration**: 18 Months
+
+
+<p align="justify">
+We are seeking candidates for an 18-month (or 12 months) postdoctoral fellowship to work on a joint research project among these Brazilian institutions or universities: UFMG, UFES, UFRGS, UNICAMP, UNISINOS. The place of work is flexible, in one of the cities of the partners. The selected candidate will be allocated to one of the partner universities and will work with consortium researchers. 
+</p>
+<p align="justify">
+This scholarship is part of the Project, entitled “Programmability, Orchestration, and Virtualization on 5G Networks” (PORVIR-5G), which aims to develop new architectures and mechanisms to improve 5G networks in general. The post-doc candidate will work on the use of AI and machine learning in the orchestration of 5G, B5G, and 6G networks, as well as network slicing and programmability of virtual networks. The project focuses on some of the 5G verticals, namely ultra-high quality video, autonomous drones, and Industry 4.0.  More information at: <a href="https://porvir-5g-project.github.io/ ">https://porvir-5g-project.github.io/ </a>
+</p>
+    
+**To succeed in this position, you are expected to have:**
+
+* Strong motivation;
+* A background in computer networks, namely network slicing, programmability, and related topics of distributed systems;   
+* Proficient in common computer programming languages (e.g., Java, C/C++, python);
+* A background in AI and machine learning is a positive aspect to be considered in the selection process;
+* Work experience in research labs abroad, during the Ph.D. period, is a positive aspect to be considered in the selection process;
+* Strong problem-solving and decision-making skills while using good judgment;
+* Good research skills, the ability to work in a team, and communication skills with good written and spoken English are required;
+* Experience in preparing/coordinating research project/students team is a plus.
+
+**How to apply**
+
+Interested candidates should fill out the   <a href="https://forms.gle/KYrs7dmKsuStS34W7">online form </a> by July  15th, 2024, by adding the documents listed below:
+
+1. A motivation letter for the application;
+2. Curriculum vitae, with list of publications, education background, research track-record, and previous experience;
+3. Ph.D. degree certificate;
+   
+The most suited candidates will be invited for an interview (via videoconference) in the week following the application deadline.
+
+**Additional Information**
+<p align="justify"> 
+        
+Eligibility Criteria: Ph.D. in Computer Science or related areas.
+
+The post-doctoral fellowship includes a monthly stipend of R$ 9.318,90 (about USD 1,730 and EUR 1,600), and research contingency funds (10% of the annual value of the fellowship, each year). For more details, check out Fapesp’s webpage <a href="http://www.fapesp.br/en/5427 ">https://fapesp.br/en/postdoc </a>. 
+
+Additionally, there is the possibility of an installation aid for the scholarship holder that lives in a different domicile and needs to move to the city where the host institution in which the scholarship will be developed is located. For journeys equal to or greater than 350 km, he/she will have an additional monthly scholarship fee and resources to cover land transportation and/or air transportation expenses in the promotional or economic category, for the scholarship holder, spouse and dependents.
+
+ 
+</p>
+
+### News #2 - PolKA proposal will be demonstrated as a Network Research Exibition in SuperComputing 2022 <a href="https://sc22.supercomputing.org/"> https://sc22.supercomputing.org/</a> 
 <p align="justify">  
 This NRE proposes to demonstrate PolKA functionalities to support the TE extreme challenges for data-intensive science (DIS). PolKA is a novel source routing approach that explores the Residue Number System (RNS) and Chinese Remainder Theorem (CRT) by performing the forwarding as an arithmetic operation: the remainder of division. PolKA encodes the path in a routeID using the RNS in contrast to the conventional list-based representation, which transports the path information “in clear” inside the packet header. Then, PolKA core nodes use this encoded route label to discover the output ports.
 </p>
@@ -265,40 +318,3 @@ The plan of demonstration is to create an overlay network with PolKA tunnels for
 <p align="justify">
 The goal is to investigate whether PolKA approach deployed at Global P4 Lab (RARE/freeRtr) meets the needs of DIS networks, working with other software tools and subsystems developed by the DIS-WG for constructing switched overlay networks composed of network paths with bandwidth guarantees, load balancing, prioritizing and scheduling flows over selected multi-domain paths, and making decisions on the coordinated use of network and site computing and storage resources to help accelerate the science workflows.
 </p>
-
-### News #2 - Post-doctoral fellowship in 5G slicing, orchestration, and programmability
-<p align="justify">
-We are seeking candidates for a post-doctoral fellowship position for 12 months to work at a joint UFMG-UNICAMP-UFES-UNISINOS-UFRGS project. Due to the number of institutions as well as the situation with COVID-19, there is a great amount of flexibility in the place of work. The candidate will be allocated to one of the host universities and will work with researchers of the consortium. 
-</p>
-<p align="justify">
-This scholarship is part of the Project, entitled “Programmability, Orchestration and Virtualization on 5G networks” (PORVIR-5G), which aims to develop new architectures and mechanisms to improve 5G networks in general. The post-doc candidate will work on the use of AI and machine learning in the orchestration of 5G networks, as well as network slicing and programmability of virtual networks. The project focuses on some of the 5G verticals, namely ultra high quality video, autonomous drones and Industry 4.0. More information at: <a href="https://porvir-5g-project.github.io/ ">https://porvir-5g-project.github.io/ </a>
-</p>
-    
-**To succeed in this position, you are expected to have:**
-
-* Strong motivation;
-* A background in computer networks, namely network slicing, programmability;    
-* Proficient in common computer programming languages (e.g., Java, C/C++, python);
-* A background in AI and machine learning is a positive aspect to be considered in the selection process;
-* Work experience in research labs abroad, during the Ph.D. period, is a positive aspect to be considered in the selection process;
-* Strong problem solving and decision-making skills while using good judgment;
-* Good research skills, the ability to work in a team, and communication skills with good written and spoken English are required;
-* Experience in preparing/coordinating research project/students team is a plus.
-
-**How to apply**
-
-Interested candidates should fill the  <a href="https://forms.gle/RKa3e5nfrCPafEVx7 ">online form </a> until June 15th, 2022, by adding the documents listed below:
-1. A motivation letter for the application;
-2. Curriculum vitae, with list of publications, education background, research track-record, and previous experience;
-3. Ph.D. degree certificate;
-The most suited candidates will be invited for an interview (via videoconference) in the week following the application deadline.
-
-**Additional Information**
-<p align="justify"> 
-        
-Eligibility Criteria: Ph.D. in Computer Science or related areas.
-The post-doctoral fellowship includes a monthly stipend of R$ 8.479,07 (about USD 1,640 and EUR 1,450), and research contingency funds (10% of the annual value of the fellowship, each year). For more details, check out Fapesp’s webpage  <a href="http://www.fapesp.br/en/5427 ">http://www.fapesp.br/en/5427 </a> .
- 
-</p>
-
-

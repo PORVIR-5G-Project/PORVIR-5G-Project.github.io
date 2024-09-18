@@ -313,14 +313,19 @@ large scale IoT deployment,"</i> in Computers and Electrical Engineering, Volume
 </details>
 <br/>
 
-VOL. 21, NO. 4, AUGUST 2024
-
 
 <details><summary>Bruno, G., Almeida, G., Sathish, A., da Silva, A., DaSilva, L., Huff, A., Cardoso, K., Both, C.<i>"Evaluating the Deployment of a Disaggregated Open RAN Controller on a Distributed Cloud Infrastructure,"</i> in IEEE Transactions on Network and Service Management, Volume 21, 2024, ISSN 1932-4537, pp. 4213-4225.</summary>
     <strong>Abstract:</strong>This article investigates the deployment of a NearReal-Time Radio Access Network (RAN) Intelligent Controller (near-RT RIC) on a distributed cloud infrastructure composed of multiple physical sites with different amounts of resources and associated costs. The challenge is dynamically adapting the nearRT RIC deployment to the most cost-effective arrangement while meeting the latency requirements between the near-RT RIC and the controlled nodes. We introduce an optimization model to solve the disaggregated near-RT RIC placement problem, considering a cloud-native infrastructure to minimize the placement cost while satisfying the latency-sensitive control loop requirements across the cloud-edge continuum. Moreover, we describe an experimental environment we created using geographically disparate cloud sites. We present data detailing the latencies of the communication links among these sites and the costs incurred in using this real-world infrastructure. We conduct a performance evaluation of the near-RT RIC deployment, comparing the distributed approach versus a traditional monolithic strategy and evaluating positioning costs, deployment, setup and registration times, and the control loop latency considering three scenarios. Our results show that in a cloud-native environment, the disaggregated near-RT RIC allows cost savings of up to 60% in comparison to a monolithic near-RT RIC while satisfying the control loop latency and achieving time efficiency in terms of deployment and registration of xApps and near-RT RIC components.
 <strong>URL:</strong> <a href="https://doi.org/10.1109/TNSM.2024.3386902">https://doi.org/10.1109/TNSM.2024.3386902</a>
 </details>
 <br/>
+
+<details><summary>Arnhold, F., Anbazhagan, S., Prade, L., Nogueira, J., Klautau, A., Both, C.<i>"Network Slicing Support by Fronthaul Interface in Disaggregated Radio Access Networks: A Survey,"</i> in IEEE Transactions on Network and Service Management, Volume 21, 2024, ISSN 1932-4537, pp. 4510-4530.</summary>
+    <strong>Abstract:</strong>Beyond 5G (B5G) and 6G networks must offer network slicing as a service to support disruptive applications using mobile network infrastructures. Moreover, network slicing as a service should enable the orchestration and management of disaggregated radio access networks (RAN), i.e., it allows the automation and abstraction of network configurations composed of physical and virtualized components such as defined by the 3rd Generation Partnership Project (3GPP) and Open RAN (O-RAN) Alliance. Network slicing must reach the part of the network between the radio units and the distribution units, i.e., the fronthaul network. Fronthaul is essential and diverse in 5G and B5G networks and can be composed of point-to-point or multipoint connections. In this context, the literature presents several works investigating the problems of network slicing and disaggregated networks. However, no survey explores current works integrating network slicing in disaggregated networks, specifically in the fronthaul network. This article surveys network slicing on disaggregated networks and its potential use in point-to-point and multipoint fronthaul infrastructures. We cover the state-of-the-art by analyzing four fundamental research questions and discuss existing solutions, open challenges, and research opportunities in B5G and 6G networks.
+<strong>URL:</strong> <a href="https://doi.org/10.1109/TNSM.2024.3400019">https://doi.org/10.1109/TNSM.2024.3400019</a>
+</details>
+<br/>
+
 
 
 ## Development 

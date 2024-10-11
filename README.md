@@ -363,17 +363,22 @@ Source routing (SR) is a prominent alternative to table-based routing for reduci
 
 ### News #1 - Post-doctoral fellowship in 5G slicing, orchestration, and programmability
 
-**Post-doctoral fellowship**: R$ 9.318,90 (about USD 1,730 and EUR 1,600) plus  research contingency funds (10% of the annual value of the fellowship, each year).
+**Possible working places (universities in Brazil)**: UFMG, UFES, UFRGS, UNICAMP, UNISINOS
 
-**Deadline to apply**: 	Jul 15th, 2024
+**Post-doctoral fellowship**: Monthly stipend of R$ 12,000 (about USD 2,200 or EUR 2,000) plus research contingency funds and moving assistance.
 
-**Beginning at**: Aug-Sep, 2024
+**Deadline to apply**: October 31st, 2024
 
-**Duration**: 18 Months
+**Beginning at**: Dez 2024 or Jan 2025
+
+**Duration**: 12 months
+
+**Application**: <a href="https://forms.gle/CxeuBrpBsumHvvKq7" target="_blank"> https://forms.gle/CxeuBrpBsumHvvKq7 </a>
+
 
 
 <p align="justify">
-We are seeking candidates for an 18-month (or 12 months) postdoctoral fellowship to work on a joint research project among these Brazilian institutions or universities: UFMG, UFES, UFRGS, UNICAMP, UNISINOS. The place of work is flexible, in one of the cities of the partners. The selected candidate will be allocated to one of the partner universities and will work with consortium researchers. 
+We are seeking **two candidates** for a 12-month  postdoctoral fellowship to work on a joint research project among these Brazilian institutions or universities: UFMG, UFES, UFRGS, UNICAMP, UNISINOS. The place of work is flexible, in one of the cities of the partners. The selected candidate will be allocated to one of the partner universities and will work with consortium researchers. 
 </p>
 <p align="justify">
 This scholarship is part of the Project, entitled “Programmability, Orchestration, and Virtualization on 5G Networks” (PORVIR-5G), which aims to develop new architectures and mechanisms to improve 5G networks in general. The post-doc candidate will work on the use of AI and machine learning in the orchestration of 5G, B5G, and 6G networks, as well as network slicing and programmability of virtual networks. The project focuses on some of the 5G verticals, namely ultra-high quality video, autonomous drones, and Industry 4.0.  More information at: <a href="https://porvir-5g-project.github.io/ ">https://porvir-5g-project.github.io/ </a>
@@ -392,11 +397,11 @@ This scholarship is part of the Project, entitled “Programmability, Orchestrat
 
 **How to apply**
 
-Interested candidates should fill out the   <a href="https://forms.gle/KYrs7dmKsuStS34W7">online form </a> by July  15th, 2024, by adding the documents listed below:
+Interested candidates should fill out the   <a href="https://forms.gle/CxeuBrpBsumHvvKq7">online form </a> by 31 October, 2024, by adding the documents listed below:
 
 1. A motivation letter for the application;
 2. Curriculum vitae, with list of publications, education background, research track-record, and previous experience;
-3. Ph.D. degree certificate;
+3. Ph.D. degree certificate (Thesis defense must be up to 7 years);
    
 The most suited candidates will be invited for an interview (via videoconference) in the week following the application deadline.
 
@@ -405,7 +410,7 @@ The most suited candidates will be invited for an interview (via videoconference
         
 Eligibility Criteria: Ph.D. in Computer Science or related areas.
 
-The post-doctoral fellowship includes a monthly stipend of R$ 9.318,90 (about USD 1,730 and EUR 1,600), and research contingency funds (10% of the annual value of the fellowship, each year). For more details, check out Fapesp’s webpage <a href="http://www.fapesp.br/en/5427 ">https://fapesp.br/en/postdoc </a>. 
+The post-doctoral fellowship includes a monthly stipend of R$ 12,000 (about USD 2,200 or EUR 2,000), and research contingency funds (10% of the annual value of the fellowship, each year). For more details, check out Fapesp’s webpage <a href="http://www.fapesp.br/en/5427 ">https://fapesp.br/en/postdoc </a>. 
 
 Additionally, there is the possibility of an installation aid for the scholarship holder that lives in a different domicile and needs to move to the city where the host institution in which the scholarship will be developed is located. For journeys equal to or greater than 350 km, he/she will have an additional monthly scholarship fee and resources to cover land transportation and/or air transportation expenses in the promotional or economic category, for the scholarship holder, spouse and dependents.
 

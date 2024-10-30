@@ -367,7 +367,7 @@ Source routing (SR) is a prominent alternative to table-based routing for reduci
 
 **Post-doctoral fellowship**: Monthly stipend of R$ 12,000 (about USD 2,200 or EUR 2,000) plus research contingency funds and moving assistance.
 
-**Deadline to apply**: October 31st, 2024
+**Deadline to apply**: November 15th, 2024
 
 **Beginning at**: Dez 2024 or Jan 2025
 
